@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio
-My Data Analyst portfolio with projects in Excel, SQL, Power BI, and Python
+# My Portfolio
+My portfolio with projects in Excel, SQL, Power BI, and Python
