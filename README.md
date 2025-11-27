@@ -6,22 +6,27 @@ Welcome to my Data Analyst portfolio.
 This repository includes projects in Excel, SQL, Power BI, and Python
 focused on solving real business problems.
 
-## 🛠 Skills
-- Data Cleaning & Analysis
-- KPI Design
-- Data Modeling
-- Visualization
+## 🛠 Core Skills 
+- Data Visualization: Power BI, Tableau, Excel (PivotTables, Power Query, Power Pivot) 
+- Programming & Databases: SQL (joins, CTEs, stored procedures), Python (Pandas, 
+- NumPy, Matplotlib) 
+- Data Analysis: DAX, descriptive statistics, forecasting, business KPIs, trend analysis 
+- Soft Skills: Communication, Problem-Solving, Attention to Detail, Critical Thinking 
+- Business Knowledge: financial analysis, Sales, Logistics, Human Resources 
 
-## 🔧 Tools
-- Excel (Power Query, Dashboards)
-- SQL (Joins, CTEs, Window Functions)
-- Power BI (DAX, Modeling)
-- Python (Pandas, Matplotlib)
+## 🔧 Technical Proficiency 
+- Programming Languages: - Python (NumPy, Pandas, Requests, Selenium, Seaborn, Matplotlib, Web Scraping) - DAX Functions - SQL 
+- Data Visualization Tools: Power BI, Tableau 
+- Statistical Tools: Google Sheets, Microsoft Excel (Advanced) 
+- Statistical Methods: Monitoring and Evaluation, Regression Analysis, Predictive Analysis 
+- Research Expertise: Economic Research, Statistical Research, Market Research
 
 ## 📁 Projects
-- Excel Sales Dashboard
+- Misuo Company Excel Dashboard
 - SQL Customer Analysis
-- Power BI Financial Dashboard
+- Salla Call Center Analysis Power BI Dashboard
+- Organi Group Power BI Dashboard
+- Adidas Power BI Dashboard
 - Python EDA Project
 
 ## 📬 Contact
