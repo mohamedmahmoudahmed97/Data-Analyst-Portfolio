@@ -25,5 +25,6 @@ focused on solving real business problems.
 - Python EDA Project
 
 ## 📬 Contact
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: yourmail@email.com
+- Phone: +20 1550409893 | +20 1142198493
+- LinkedIn: https://linkedin.com/in/yourname](http://www.linkedin.com/in/mohamed-mahmoud-ahmed-864881278/ 
+- Email: mohamedmahmoudahmed97@gmail.com
